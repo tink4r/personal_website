@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Qiu Pengyun is a research assistant of SUTD at CGL. His research interests include Applied Mathematics and Computer Graphics. He is applying for a PHD in computer graphics.
+Qiu Pengyun is a research assistant of SUTD at CGL. His research interests include Applied Mathematics and Computer Graphics. He is applying for a PHD in Computer Graphics.
 {style="text-align: justify;"}
