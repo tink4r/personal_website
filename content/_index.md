@@ -209,7 +209,7 @@ sections:
       #   {{% /callout %}}
       filters:
         folders:
-          - publication
+          - publication/conference-paper
         exclude_featured: false
     design:
       columns: '2'
